@@ -1,2 +1,1 @@
-echo "PWD" 
-chmod 777 **/*.sh
+echo "ls"
